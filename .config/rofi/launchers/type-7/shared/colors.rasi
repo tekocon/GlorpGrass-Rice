@@ -1,0 +1,26 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Colors
+ *
+ * Available Colors Schemes
+ *
+ * adapta    catppuccin    everforest    navy       paper
+ * arc       cyberpunk     gruvbox       nord       solarized
+ * black     dracula       lovelace      onedark    yousai
+ *
+ **/
+
+/* Import color-scheme from `colors` directory */
+
+* {
+    background:     #111812;
+    background-alt: #07140A;
+    foreground:     #b1ceb3;
+    selected:       #4a7642;
+    active:         #7D977F;
+    urgent:         #680014;
+}
+
